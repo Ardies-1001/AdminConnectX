@@ -1,0 +1,20 @@
+Liste des services d'API d'ip utilisable : https://apibundle.io/fr/blog/geolocalisation-ip-api
+	1-https://apibundle.io/
+	2-https://ipinfo.io
+	3-Abstract API [ vérification d'email et de numéro de telephone ]
+	4-https://ipdata.co
+
+Mail temporaire
+	1-mail.tm/
+	  Email    : xxxxxxxxxxxxxxxxxxxx
+	  Password : xxxxxxxxx
+
+
+
+Apibundle.io
+	  Email    : xxxxxxxxxxxxxxxxxxxx
+	  Password : xxxxxxxxx
+
+
+
+Vérifie le repertoire includes/databases pour avoir la base de donnée

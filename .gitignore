@@ -1,0 +1,4 @@
+# Ignorer le fichier personal
+personal.txt
+# Ignorer le dossier poubelle
+/poubelle
